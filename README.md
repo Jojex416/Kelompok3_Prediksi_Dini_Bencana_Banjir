@@ -18,7 +18,8 @@ SISTEM PREDIKSI DINI BENCANA BANJIR
 Sistem ini adalah platform web berbasis AI yang dirancang untuk memprediksi potensi banjir secara real-time dan memberikan peringatan dini kepada masyarakat dan pihak terkait. Sistem menggabungkan data sensor, analisis lingkungan, dan visualisasi interaktif untuk meningkatkan kesiapsiagaan bencana.
 
 2. Komponen Utama Sistem
-    a. Dashboard Monitoring Real-Time
+
+     a. Dashboard Monitoring Real-Time
        - Live Data Sensor: Menampilkan parameter kunci seperti curah hujan, level air sungai, kelembaban tanah, dan data cuaca
        - Visualisasi Grafik: Tren data waktu-nyata dengan grafik interaktif
        - Status Alert: Indikator warna (hijau/kuning/merah) untuk tingkat bahaya
@@ -47,12 +48,12 @@ Sistem ini adalah platform web berbasis AI yang dirancang untuk memprediksi pote
          Zonasi Risiko: Pembagian wilayah berdasarkan kerentanan
          Lokasi Sensor: Visualisasi titik-titik sensor
 
-3. Alur Kerja Sistem
+4. Alur Kerja Sistem
 Data Input → Proses Analisis → Prediksi → Notifikasi → Tindakan
       ↓           ↓           ↓          ↓           ↓
 [Sensor] → [AI Model] → [Risk Level] → [Alert] → [Response]
 
-4. Teknologi yang Digunakan
+5. Teknologi yang Digunakan
    a. Frontend (Web Interface)
       HTML5, CSS3, JavaScript
       Chart.js / D3.js untuk visualisasi
@@ -64,7 +65,7 @@ Data Input → Proses Analisis → Prediksi → Notifikasi → Tindakan
       Database (MySQL/PostgreSQL)
       API untuk integrasi data eksternal
 
-5. Fitur Utama untuk Pengguna
+6. Fitur Utama untuk Pengguna
    a. Untuk Masyarakat Umum:
       Informasi status banjir real-time
       Peta zona aman dan evakuasi
@@ -75,7 +76,7 @@ Data Input → Proses Analisis → Prediksi → Notifikasi → Tindakan
       Manajemen sumber daya darurat
       Analisis historis untuk perencanaan
 
-6. Proses Prediksi
+7. Proses Prediksi
    a. Pengumpulan Data:
       Data sensor IoT
       Data cuaca dari BMKG
