@@ -9,7 +9,7 @@ Kelompok 3:
 - Jonathan_F52124083
 - Nur Hafsa_F52124085
 - Shendy Kalambe_F52124091
-- Citra Ramadani
+- Citra Ramadhani F52124061
 =========================================================================
 Keterangan Sistem Kami tentang: 
 SISTEM PREDIKSI DINI BENCANA BANJIR
