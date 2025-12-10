@@ -18,34 +18,34 @@ SISTEM PREDIKSI DINI BENCANA BANJIR
 Sistem ini adalah platform web berbasis AI yang dirancang untuk memprediksi potensi banjir secara real-time dan memberikan peringatan dini kepada masyarakat dan pihak terkait. Sistem menggabungkan data sensor, analisis lingkungan, dan visualisasi interaktif untuk meningkatkan kesiapsiagaan bencana.
 
 2. Komponen Utama Sistem
-a. Dashboard Monitoring Real-Time
-Live Data Sensor: Menampilkan parameter kunci seperti curah hujan, level air sungai, kelembaban tanah, dan data cuaca
-Visualisasi Grafik: Tren data waktu-nyata dengan grafik interaktif
-Status Alert: Indikator warna (hijau/kuning/merah) untuk tingkat bahaya
+    a. Dashboard Monitoring Real-Time
+       - Live Data Sensor: Menampilkan parameter kunci seperti curah hujan, level air sungai, kelembaban tanah, dan data cuaca
+       - Visualisasi Grafik: Tren data waktu-nyata dengan grafik interaktif
+       - Status Alert: Indikator warna (hijau/kuning/merah) untuk tingkat bahaya
 
-b. Modul Prediksi AI/ML
-  - Model Prediksi: Menggunakan algoritma machine learning untuk menganalisis pola historis dan data real-time
-  - Faktor Prediksi:
-    Curah hujan (jam/harian)
-    Kapasitas drainase
-    Topografi wilayah
-    Data historis banjir
-  - Output: Probabilitas banjir dengan skala risiko (Rendah-Sedang-Tinggi)
+    b. Modul Prediksi AI/ML
+       - Model Prediksi: Menggunakan algoritma machine learning untuk menganalisis pola historis dan data real-time
+       - Faktor Prediksi:
+         Curah hujan (jam/harian)
+         Kapasitas drainase
+         Topografi wilayah
+         Data historis banjir
+       - Output: Probabilitas banjir dengan skala risiko (Rendah-Sedang-Tinggi)
 
-c. Sistem Peringatan Dini
-   - Multi-level Alert:
-     Level 1 (Waspada): Monitoring intensif
-     Level 2 (Siaga): Persiapan evakuasi
-     Level 3 (Awas): Evakuasi segera
-   - Channel Notifikasi:
-     Notifikasi web dashboard
-     SMS blast (opsional)
-     Email alert
+     c. Sistem Peringatan Dini
+       - Multi-level Alert:
+         Level 1 (Waspada): Monitoring intensif
+         Level 2 (Siaga): Persiapan evakuasi
+         Level 3 (Awas): Evakuasi segera
+       - Channel Notifikasi:
+         Notifikasi web dashboard
+         SMS blast (opsional)
+         Email alert
 
-d. Peta Interaktif
-GIS Mapping: Pemetaan daerah rawan banjir
-Zonasi Risiko: Pembagian wilayah berdasarkan kerentanan
-Lokasi Sensor: Visualisasi titik-titik sensor
+      d. Peta Interaktif
+         GIS Mapping: Pemetaan daerah rawan banjir
+         Zonasi Risiko: Pembagian wilayah berdasarkan kerentanan
+         Lokasi Sensor: Visualisasi titik-titik sensor
 
 3. Alur Kerja Sistem
 Data Input → Proses Analisis → Prediksi → Notifikasi → Tindakan
