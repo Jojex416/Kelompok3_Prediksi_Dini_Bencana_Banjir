@@ -49,16 +49,19 @@ Sistem ini adalah platform web berbasis AI yang dirancang untuk memprediksi pote
          Lokasi Sensor: Visualisasi titik-titik sensor
 
 4. Alur Kerja Sistem
+
 Data Input → Proses Analisis → Prediksi → Notifikasi → Tindakan
       ↓           ↓           ↓          ↓           ↓
 [Sensor] → [AI Model] → [Risk Level] → [Alert] → [Response]
 
 5. Teknologi yang Digunakan
+
    a. Frontend (Web Interface)
       HTML5, CSS3, JavaScript
       Chart.js / D3.js untuk visualisasi
       Peta interaktif (Leaflet/OpenLayers)
       Responsive design
+ 
    b. Backend & Analisis
       Python (Flask/Django)
       Scikit-learn / TensorFlow untuk model ML
@@ -66,30 +69,36 @@ Data Input → Proses Analisis → Prediksi → Notifikasi → Tindakan
       API untuk integrasi data eksternal
 
 6. Fitur Utama untuk Pengguna
-   a. Untuk Masyarakat Umum:
+
+    a. Untuk Masyarakat Umum:
       Informasi status banjir real-time
       Peta zona aman dan evakuasi
       Panduan kesiapsiagaan
+
    b. Untuk Petugas/Pemerintah:
       Dashboard monitoring lengkap
       Laporan otomatis
       Manajemen sumber daya darurat
       Analisis historis untuk perencanaan
 
-7. Proses Prediksi
+8. Proses Prediksi
+
    a. Pengumpulan Data:
       Data sensor IoT
       Data cuaca dari BMKG
       Data topografi
+
    b. Preprocessing:
       Pembersihan data
       Normalisasi
       Feature engineering
+
    c. Analisis & Prediksi:
       Running model ML
       Perhitungan probabilitas
       Validasi hasil
-   d. Visualisasi & Diseminasi:
+
+    d. Visualisasi & Diseminasi:
       Update dashboard
       Generate alert
       Distribusi informasi
