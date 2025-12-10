@@ -5,11 +5,11 @@ joblib
 pandas
 =========================================================================================================================
 Kelompok 3:
-1. Ni Komang Ayu Ratih Asrati_F52124051
-2. Jonathan_F52124083
-3. Nur Hafsa_F52124085
-4. Shendy Kalambe_F52124091
-5. Citra Ramadani
+Ni Komang Ayu Ratih Asrati_F52124051
+Jonathan_F52124083
+Nur Hafsa_F52124085
+Shendy Kalambe_F52124091
+Citra Ramadani
 =========================================================================
 Keterangan Sistem Kami tentang: 
 SISTEM PREDIKSI DINI BENCANA BANJIR
