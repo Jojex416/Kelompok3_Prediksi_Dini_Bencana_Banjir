@@ -102,3 +102,4 @@ Data Input → Proses Analisis → Prediksi → Notifikasi → Tindakan
       Update dashboard
       Generate alert
       Distribusi informasi
+sjaf
